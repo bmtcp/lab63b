@@ -23,9 +23,22 @@ https://www.youtube.com/watch?v=yBjab0UNuB8
 
 ## วิธีการทำการทดลอง
 1. ติดตั้งเชื่อมไมโครคอนโทรเลอร์ กับ USB
+
+![image](https://user-images.githubusercontent.com/80880311/112315336-a0004c80-8cdc-11eb-89e3-2fd3b0d45bf2.jpeg)
+
+ ![image](https://user-images.githubusercontent.com/80880311/112315356-a4c50080-8cdc-11eb-9404-1ad06beace4a.jpeg)
+
+
 2. Upload โปรแกรมไปยังไมโครคอนโทรเลอร์ โปรแกรมจะมี 2 ส่วน 1. ส่วน Set up แสดงผลเพียง 1 ครั้ง set เป็น wifi 2. ส่วน Loop แสดงผล ค้นหา Wifi ที่พบ ใช้คำสั่ง pio run -t upload
+
+![image](https://user-images.githubusercontent.com/80880311/112315375-aabae180-8cdc-11eb-997d-2d388c165ada.jpeg)
+
+
 3. ขณะ upload กดปุ่ม port 0 และกด Reset เพื่อรับข้อมูล
 4. เมื่อโปรแกรมโหลดเสร็จ ให้ใช้คำสั่ง pio device monitor แสดงผลของไมโครคอนโทรเลอร์
+
+![image](https://user-images.githubusercontent.com/80880311/112315416-b5757680-8cdc-11eb-825f-537c42d57311.jpeg)
+
 
 ## การบันทึกผลการทดลอง
 เมื่อโปรแกรมโหลดเสร็จ ไมโครคอนโทรเลอร์จะแสดงผลการค้นหา Wifi ในบริเวณพื้นที่ใกล้เคียง
