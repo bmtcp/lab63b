@@ -19,6 +19,8 @@ Wifi คือ เครือข่ายไร้สาย หรือ คล
 
 [nsm.or.th](https://www.nsm.or.th/other-service/676-online-science/knowledge-inventory/sci-trick/sci-trick-information-technology-museum/3938-wi-fi-%E0%B8%81%E0%B8%B1%E0%B8%9A-wireless-%E0%B8%95%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B9%84%E0%B8%A3-%E0%B8%97%E0%B8%B3%E0%B9%84%E0%B8%A1%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%81%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B9%80%E0%B8%AB%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%99%E0%B8%81%E0%B8%B1%E0%B8%99.html)
 
+https://www.youtube.com/watch?v=yBjab0UNuB8
+
 ## วิธีการทำการทดลอง
 1. ติดตั้งเชื่อมไมโครคอนโทรเลอร์ กับ USB
 2. Upload โปรแกรมไปยังไมโครคอนโทรเลอร์ โปรแกรมจะมี 2 ส่วน 1. ส่วน Set up แสดงผลเพียง 1 ครั้ง set เป็น wifi 2. ส่วน Loop แสดงผล ค้นหา Wifi ที่พบ ใช้คำสั่ง pio run -t upload
