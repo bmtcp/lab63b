@@ -10,25 +10,14 @@
 
 
 ## ข้อมูลเบื้องต้น
-PlatformIO เปรียบเสมือนส่วนเสริมสร้างที่ใช้ในการติดตั้งบน Editor ของค่ายต่างๆ เป็น Open source software  สำหรับพัฒนา Embedded หรือ IoT ได้ในแบบ Cross-platform
-ซึ่ง PlatformIO มีให้เลือกใช้ 2 แบบด้วยกันดังนี้
-1. PlatformIO CLI: การใช้งานแบบ Command Line
-2. PlatformIO IDE: การใช้งานผ่าน IDE ต่างๆ เช่น VSCode, Atom TextEditor
-ซึ่งการใช้ PlatformIO นี้ สามารถบอกให้ทราบที่มาของผลิตภัณฑ์ว่าเป็นของบริษัทใด board ของผลิตภัณฑ์นี้ ชื่ออะไร วิธีที่เลือกใช้เขียนโปรแกรมเป็นอย่างไร และ port ที่ใช้ในการติดต่อ
-
-[thiti.dev](https://thiti.dev/blog/28/)
-[medium.com](https://medium.com/@tossporn.chai/beginning-hardware-programming-with-platform-io-c345a4c7e2c7)
-
-Microcontroller (MCU) คือ อุปกรณ์ควบคุมขนาดเล็ก ที่มีความสามารถคล้ายคลึงกับระบบคอมพิวเตอร์ ประกอบด้วย CPU หน่วยความจำ และพอร์ต บรรจุอยู่ ทำให้เรียกไมโครคอนโทรเลอร์อีกชือว่า ระบบคอมพิวเตอร์ขนาดเล็ก
-
-[sbt.ac.th](http://www.sbt.ac.th/new/sites/default/files/TNP_Unit_1.pdf)
+[https://www.youtube.com/watch?v=NLIUsWLEpmg](https://www.youtube.com/watch?v=NLIUsWLEpmg)
 
 ## วิธีการทำการทดลอง
 1. เลือกตัวอย่างโปรแกรมจากโฟลเดอร์ Pattani
 2. เลือกตัวอย่างโปรแกรม 01_Serial-monitor โปรแกรมจะมี 2 ส่วน 1. ส่วน Set up แสดงผลเพียง 1 ครั้ง 2. ส่วน Loop จะแสดงผลไปเรื่อยๆ
 3. ใช้ Platformio.ini
 4. Upload โปรแกรมไปยังไมโครคอนโทรเลอร์
-5. ขณะโปรแกรมเริ่มรัน กดปุ่มสีดำบนตัวไมโครคอนโทรเลอร์ port 0 และ Reset เพื่อรับข้อมูล
+5. ขณะโปรแกรมเริ่มรัน กดปุ่มสีดำบนตัวไมโครคอนโทรเลอร์ port 0 และ ปุ่มสีแดง Reset เพื่อรับข้อมูล
 6. เมื่อโปรแกรมโหลดเสร็จ ให้ใช้คำสั่ง pio device monitor แสดงผลจากไมโครคอนโทรเลอร์
 
 ## การบันทึกผลการทดลอง
@@ -39,3 +28,6 @@ Microcontroller (MCU) คือ อุปกรณ์ควบคุมขนา
 
 
 ## คำถามหลังการทดลอง
+เมื่อต้องการให้โปรแกรมสามารถรันได้บนตัวไมโครคอนโทรเลอร์ ต้องกดปุ่มอะไร
+
+*answer* ปุ่มสีดำบนไมโครคอนโทรเลอร์ และปุ่มสีแดง Reset 
