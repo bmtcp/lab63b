@@ -14,11 +14,36 @@
 
 ## วิธีการทำการทดลอง
 1. เลือกตัวอย่างโปรแกรมจากโฟลเดอร์ Pattani
+
+![image](https://user-images.githubusercontent.com/80880311/112314078-2d42a180-8cdb-11eb-940b-e1ddf1b57c6a.jpeg)
+
+
 2. เลือกตัวอย่างโปรแกรม 01_Serial-monitor โปรแกรมจะมี 2 ส่วน 1. ส่วน Set up แสดงผลเพียง 1 ครั้ง 2. ส่วน Loop จะแสดงผลไปเรื่อยๆ
+
+![image](https://user-images.githubusercontent.com/80880311/112314294-70047980-8cdb-11eb-81b7-d794399ff7c6.jpeg)
+
+![image](https://user-images.githubusercontent.com/80880311/112314566-be197d00-8cdb-11eb-9655-a0ec989430e1.jpeg)
+
+
 3. ใช้ Platformio.ini
+
+![image](https://user-images.githubusercontent.com/80880311/112314595-c4a7f480-8cdb-11eb-84dd-bc240770a17e.jpeg)
+
+
 4. Upload โปรแกรมไปยังไมโครคอนโทรเลอร์
+
+![image](https://user-images.githubusercontent.com/80880311/112314611-c96ca880-8cdb-11eb-8d07-0d7c9205b898.jpeg)
+
+
 5. ขณะโปรแกรมเริ่มรัน กดปุ่มสีดำบนตัวไมโครคอนโทรเลอร์ port 0 และ ปุ่มสีแดง Reset เพื่อรับข้อมูล
+
+![image](https://user-images.githubusercontent.com/80880311/112314651-d4bfd400-8cdb-11eb-9157-d19d8002577c.jpeg)
+
+
 6. เมื่อโปรแกรมโหลดเสร็จ ให้ใช้คำสั่ง pio device monitor แสดงผลจากไมโครคอนโทรเลอร์
+
+![image](https://user-images.githubusercontent.com/80880311/112314673-dd180f00-8cdb-11eb-95a6-09ac49294537.jpeg)
+
 
 ## การบันทึกผลการทดลอง
 ตัวแปร count เริ่มนับจาก 0 เพิ่มขึ้นทีละ 1 จะแสดงผลในทุกๆ 1 วินาที เมื่อสั่ง Reset โปรแกรมจะเริ่มนับใหม่อีกครั้ง
