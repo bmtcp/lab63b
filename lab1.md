@@ -6,8 +6,8 @@
 
 ## อุปกรณ์ที่ใช้
 1. Microcontroller ESP-01
-2. USB
-3. Serial Communication
+2. 2-Port Serial USB 
+
 
 ## ข้อมูลเบื้องต้น
 PlatformIO เปรียบเสมือนส่วนเสริมสร้างที่ใช้ในการติดตั้งบน Editor ของค่ายต่างๆ เป็น Open source software  สำหรับพัฒนา Embedded หรือ IoT ได้ในแบบ Cross-platform
