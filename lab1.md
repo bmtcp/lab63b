@@ -15,10 +15,12 @@ PlatformIO เปรียบเสมือนส่วนเสริมสร
 1. PlatformIO CLI: การใช้งานแบบ Command Line
 2. PlatformIO IDE: การใช้งานผ่าน IDE ต่างๆ เช่น VSCode, Atom TextEditor
 ซึ่งการใช้ PlatformIO นี้ สามารถบอกให้ทราบที่มาของผลิตภัณฑ์ว่าเป็นของบริษัทใด board ของผลิตภัณฑ์นี้ ชื่ออะไร วิธีที่เลือกใช้เขียนโปรแกรมเป็นอย่างไร และ port ที่ใช้ในการติดต่อ
+
 [thiti.dev](https://thiti.dev/blog/28/)
 [medium.com](https://medium.com/@tossporn.chai/beginning-hardware-programming-with-platform-io-c345a4c7e2c7)
 
 Microcontroller (MCU) คือ อุปกรณ์ควบคุมขนาดเล็ก ที่มีความสามารถคล้ายคลึงกับระบบคอมพิวเตอร์ ประกอบด้วย CPU หน่วยความจำ และพอร์ต บรรจุอยู่ ทำให้เรียกไมโครคอนโทรเลอร์อีกชือว่า ระบบคอมพิวเตอร์ขนาดเล็ก
+
 [sbt.ac.th](http://www.sbt.ac.th/new/sites/default/files/TNP_Unit_1.pdf)
 
 ## วิธีการทำการทดลอง
